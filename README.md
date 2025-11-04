@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![AI English Tutor](Screenshot%202025-11-03%20at%207.37.04%20PM.png)
+![AI English Tutor](https://raw.githubusercontent.com/sanoylab/AI-English-Tutor/refs/heads/main/Screenshot%202025-11-03%20at%207.37.04%E2%80%AFPM.png)
 
 **Learn English Through Natural Conversation with AI**
 
