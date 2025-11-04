@@ -1,0 +1,35 @@
+# Environment
+.env
+.env.local
+
+# Node modules
+node_modules
+npm-debug.log
+
+# Git
+.git
+.gitignore
+
+# Documentation
+*.md
+!README.md
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Database
+database/
+
+# Logs
+*.log
+
+# Plan file
+*.plan.md
+
